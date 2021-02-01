@@ -3,7 +3,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: auto;
 }
 
 #title{
@@ -16,8 +15,6 @@
 }
 
 #tribute-info{
-    /* justify-content: center;
-    align-items: center; */
     font-family: Arial;
     font-size: 16px;
 
